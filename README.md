@@ -1,4 +1,4 @@
-# Lab2web
+ggggggggggggggggggggggggggggggggggggggggggggggggggg# Lab2web
 Tugas CSS
 
 |Nama|NIM|Kelas|Matkul|
@@ -18,7 +18,7 @@ Hal yang saya Ubah yaitu :
    
 
 *  Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
-penjelasannya!
+penjelasannya
 
 Perbedaan antara pendeklarasian CSS menggunakan h1 {...} dan #intro h1 {...} terletak pada spesifisitas selektor yang digunakan:
 
@@ -27,3 +27,7 @@ Selektor Elemen (h1 {...}) mengaplikasikan gaya ke semua elemen h1 di halaman we
 elektor ID (#intro h1 {...}) ini lebih spesifik. Ia hanya akan mengaplikasikan gaya ke elemen h1 yang berada di dalam elemen dengan ID intro. Ini memungkinkan kita menerapkan gaya khusus hanya untuk elemen h1 di dalam konteks tertentu (di dalam elemen dengan ID intro), tanpa mempengaruhi elemen h1 lain di luar konteks tersebut.
 
 ![Screenshot 2024-10-08 115745](https://github.com/user-attachments/assets/06880cd3-73ad-4ef3-a139-99565b1ac44a)
+
+* Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
+penjelasan dan contohnya!
