@@ -15,3 +15,7 @@ Hal yang saya Ubah yaitu :
 2. Header yang saya warnai biru tua dengan text putih
 3. Navigasi Tautan yang diberi efek hover
 4. menambahkan bayangan dan sudut membulat untuk memberi kesan rapi.
+
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
+penjelasannya!
+
