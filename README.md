@@ -5,3 +5,6 @@ Tugas CSS
 |----|---|-----|------|
 |Restu sayidina ahmad |312310431|TI.23.A4|Pemograman Web 1|
 
+Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
+dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+![Screenshot 2024-10-08 113513](https://github.com/user-attachments/assets/0a2ff9ff-bf3d-472c-ad18-234c41d46d9d)
