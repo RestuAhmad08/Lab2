@@ -1,5 +1,3 @@
-ggggggggggggggggggggggggggggggggggggggggggggggggggg# Lab2web
-Tugas CSS
 
 |Nama|NIM|Kelas|Matkul|
 |----|---|-----|------|
