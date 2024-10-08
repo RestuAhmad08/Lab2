@@ -11,7 +11,7 @@ dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul
 ![Screenshot 2024-10-08 113513](https://github.com/user-attachments/assets/0a2ff9ff-bf3d-472c-ad18-234c41d46d9d)
 
 Hal yang saya Ubah yaitu :
-Background yang menjadi warna Biru muda
-Header yang saya warnai biru tua dengan text putih
-Navigasi Tautan yang diberi efek hover
-meambahkan bayangan dan sudut membulat untuk memberi kesan rapi.
+1. Background yang menjadi warna Biru muda
+2. Header yang saya warnai biru tua dengan text putih
+3. Navigasi Tautan yang diberi efek hover
+4. menambahkan bayangan dan sudut membulat untuk memberi kesan rapi.
