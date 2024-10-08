@@ -19,3 +19,6 @@ Hal yang saya Ubah yaitu :
 Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
 penjelasannya!
 
+Perbedaan antara pendeklarasian CSS menggunakan h1 {...} dan #intro h1 {...} terletak pada spesifisitas selektor yang digunakan:
+
+Selektor Elemen h1 
