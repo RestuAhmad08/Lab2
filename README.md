@@ -29,3 +29,9 @@ elektor ID (#intro h1 {...}) ini lebih spesifik. Ia hanya akan mengaplikasikan g
 * Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
 elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
 penjelasan dan contohnya!
+
+![Screenshot 2024-10-08 123606](https://github.com/user-attachments/assets/15d9b27e-eeea-4321-ae09-8c2b9d0fe37a)
+
+CSSnya
+![Screenshot 2024-10-08 123625](https://github.com/user-attachments/assets/a3d41c5b-85ab-4d60-b8f7-a82c0757ba6a)
+
